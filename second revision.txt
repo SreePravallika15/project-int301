@@ -1,0 +1,575 @@
+SYSTEM
+======
+
+Host name: LAPTOP-O37RLF1G
+IP-address: 192.168.56.1
+User name: LAPTOP-O37RLF1G\sree pravallika
+Description: 
+Operating system: Microsoft Windows 11 Home Single Language (version 10.0.22000; build 22000)
+  Name: Microsoft Windows 11 Home Single Language
+  Version: 10.0.22000
+  Build: 22000
+  Install date: 11/26/2021 10:05:23 PM
+Windows product ID: 00327-35828-63502-AAOEM
+Windows product key: 8N68R-9RW2D-DRHCX-PW66K-TF4BP
+Updates status: Update required: True (checked:Sunday, April 2, 2023, 11:20 PM)
+  Status: Update required: True
+  Last Checked: Sunday, April 2, 2023, 11:20 PM
+Internet Explorer version: 11.1.22000.0
+Model: ZenBook UX333FA_UX333FA
+System type: x64-based PC
+Uptime: Uptime : 6 days, 01:55:37 (since 3/27/2023 9:31:15 PM)
+BIOS: American Megatrends Inc. (version: UX333FA.308; date: 7/23/2019)
+  Manufacturer: American Megatrends Inc.
+  Version: UX333FA.308
+  Date: 7/23/2019
+Serial number: JBN0CV096187470
+Motherboard: ASUSTeK COMPUTER INC. (UX333FA; version: 1.0)
+  Manufacturer: ASUSTeK COMPUTER INC.
+  Product: UX333FA
+  Version: 1.0
+Chassis: Notebook
+Processor: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz (architecture: x64; 1800 MHz)
+  Name: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+  Manufacturer: GenuineIntel
+  Max clock speed: 1800 MHz
+  Architecture: x64
+  Level 2 cache size: 1024 KB
+  Socket type: U3E1
+  Version: 
+Physical memory: 7.8 GB
+Memory slot: 4.0 GB (BANK 0; form factor: Unknown; memory type: Unknown)
+  Capacity: 4.0 GB
+  Device locator: ChannelA-DIMM0
+  Bank label: BANK 0
+  Form factor: Unknown
+  Memory type: Unknown
+  Manufacturer: Micron
+  Speed: 2133 ns
+  Max capacity: 8.0 GB
+Memory slot: 4.0 GB (BANK 2; form factor: Unknown; memory type: Unknown)
+  Capacity: 4.0 GB
+  Device locator: ChannelB-DIMM0
+  Bank label: BANK 2
+  Form factor: Unknown
+  Memory type: Unknown
+  Manufacturer: Micron
+  Speed: 2133 ns
+  Max capacity: 8.0 GB
+Web Camera: USB2.0 HD IR UVC WebCam
+  Name: USB2.0 HD IR UVC WebCam
+  Manufacturer: Microsoft
+  Description: USB Video Device
+  Device ID: USB\VID_13D3&PID_56CB&MI_02\6&C7EFBB4&0&0002
+Web Camera: USB2.0 HD IR UVC WebCam
+  Name: USB2.0 HD IR UVC WebCam
+  Manufacturer: Microsoft
+  Description: USB Video Device
+  Device ID: USB\VID_13D3&PID_56CB&MI_00\6&C7EFBB4&0&0000
+Bitlocker: C: Protection On
+Bitlocker: D: Protection On
+Disk: WDC PC SN520 SDAPNUW-512G-1002 (476.9 GB)
+  Caption: WDC PC SN520 SDAPNUW-512G-1002
+  Serial number: 1840_3880_0440_0001_001B_448B_4460_67A4.
+  Size: 476.9 GB
+  Manufacturer: (Standard disk drives)
+  Interface type: SCSI
+  Media type: Fixed hard disk media
+  Bytes per sector: 512
+  Heads: 255
+  Cylinders: 62260
+  Sectors: 1000206900
+  Tracks: 15876300
+Logical drive: C: (Local Fixed Disk; size: 280.6 GB; free space: 35.0 GB; file system: NTFS)
+  Name: C:
+  Description: Local Fixed Disk
+  Size: 280.6 GB
+  Free space: 35.0 GB
+  File system: NTFS
+  Serial number: 7A809007
+  Network path: 
+Logical drive: D: (Local Fixed Disk; size: 195.3 GB; free space: 171.8 GB; file system: NTFS)
+  Name: D:
+  Description: Local Fixed Disk
+  Size: 195.3 GB
+  Free space: 171.8 GB
+  File system: NTFS
+  Serial number: C8593E82
+  Network path: 
+Video: Intel(R) UHD Graphics 620 (1920x1080x32b)
+  Name: Intel(R) UHD Graphics 620
+  Current horizontal resolution: 1920
+  Current vertical resolution: 1080
+  Current bits per pixel: 32
+  Current refresh rate: 60 Hz
+  Memory size: 1.0 GB
+Monitor: Unknown
+  Manufacturer: Asus
+  Serial number: 0
+  Manufacture date: 2018 week 20
+Printer: OneNote (Desktop)
+  Name: OneNote (Desktop)
+  Default printer: False
+  Network printer: False
+  Port name: nul:
+Printer: Microsoft XPS Document Writer
+  Name: Microsoft XPS Document Writer
+  Default printer: False
+  Network printer: False
+  Port name: PORTPROMPT:
+Printer: Microsoft Print to PDF (default printer)
+  Name: Microsoft Print to PDF
+  Default printer: True
+  Network printer: False
+  Port name: PORTPROMPT:
+Printer: Fax
+  Name: Fax
+  Default printer: False
+  Network printer: False
+  Port name: SHRFAX:
+Multimedia: Intel(R) Display Audio
+  Name: Intel(R) Display Audio
+  Manufacturer: Intel(R) Corporation
+Multimedia: Realtek High Definition Audio
+  Name: Realtek High Definition Audio
+  Manufacturer: Realtek
+Network adapter: Intel(R) Wireless-AC 9560 160MHz
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: Intel Corporation
+  Speed: 144.4 Mbps
+  Adapter IP-address: 172.22.10.138
+  Adapter MAC-address: DC:8B:28:12:DB:26
+  DHCP enabled: True
+  DHCP server: 172.19.2.50
+  DNS domain: lpu.com
+  WINS primary server: 
+  WINS secondary server: 
+Network adapter: Bluetooth Device (Personal Area Network)
+  Adapter type: Ethernet 802.3
+  Net connection status: Media disconnected
+  Manufacturer: Microsoft
+  Speed: 3.0 Mbps
+  Adapter IP-address: 
+  Adapter MAC-address: DC:8B:28:12:DB:2A
+  DHCP enabled: True
+  DHCP server: 
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Network adapter: VMware Virtual Ethernet Adapter for VMnet1
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: VMware, Inc.
+  Speed: 100.0 Mbps
+  Adapter IP-address: 192.168.206.1
+  Adapter MAC-address: 00:50:56:C0:00:01
+  DHCP enabled: True
+  DHCP server: 192.168.206.254
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Network adapter: VMware Virtual Ethernet Adapter for VMnet8
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: VMware, Inc.
+  Speed: 100.0 Mbps
+  Adapter IP-address: 192.168.153.1
+  Adapter MAC-address: 00:50:56:C0:00:08
+  DHCP enabled: True
+  DHCP server: 192.168.153.254
+  DNS domain: 
+  WINS primary server: 192.168.153.2
+  WINS secondary server: 
+Network adapter: VirtualBox Host-Only Ethernet Adapter
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: Oracle Corporation
+  Speed: 1.0 Gbps
+  Adapter IP-address: 192.168.56.1
+  Adapter MAC-address: 0A:00:27:00:00:08
+  DHCP enabled: False
+  DHCP server: 
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Local account: LAPTOP-O37RLF1G\Administrator
+  Caption: LAPTOP-O37RLF1G\Administrator
+  Name: Administrator
+  Domain: LAPTOP-O37RLF1G
+  Description: Built-in account for administering the computer/domain
+  SID: S-1-5-21-572798379-1359309827-201480640-500
+  Disabled: True
+Local account: LAPTOP-O37RLF1G\DefaultAccount
+  Caption: LAPTOP-O37RLF1G\DefaultAccount
+  Name: DefaultAccount
+  Domain: LAPTOP-O37RLF1G
+  Description: A user account managed by the system.
+  SID: S-1-5-21-572798379-1359309827-201480640-503
+  Disabled: True
+Local account: LAPTOP-O37RLF1G\Guest
+  Caption: LAPTOP-O37RLF1G\Guest
+  Name: Guest
+  Domain: LAPTOP-O37RLF1G
+  Description: Built-in account for guest access to the computer/domain
+  SID: S-1-5-21-572798379-1359309827-201480640-501
+  Disabled: True
+Local account: LAPTOP-O37RLF1G\sree pravallika
+  Caption: LAPTOP-O37RLF1G\sree pravallika
+  Name: sree pravallika
+  Domain: LAPTOP-O37RLF1G
+  Description: 
+  SID: S-1-5-21-572798379-1359309827-201480640-1001
+  Disabled: False
+Local account: LAPTOP-O37RLF1G\WDAGUtilityAccount
+  Caption: LAPTOP-O37RLF1G\WDAGUtilityAccount
+  Name: WDAGUtilityAccount
+  Domain: LAPTOP-O37RLF1G
+  Description: A user account managed and used by the system for Windows Defender Application Guard scenarios.
+  SID: S-1-5-21-572798379-1359309827-201480640-504
+  Disabled: True
+Share: ADMIN$ (Remote Admin)
+  Name: ADMIN$
+  Caption: Remote Admin
+  Path: C:\WINDOWS
+  Type: Disk Drive Admin
+Share: C$ (Default share)
+  Name: C$
+  Caption: Default share
+  Path: C:\
+  Type: Disk Drive Admin
+Share: D$ (Default share)
+  Name: D$
+  Caption: Default share
+  Path: D:\
+  Type: Disk Drive Admin
+Share: IPC$ (Remote IPC)
+  Name: IPC$
+  Caption: Remote IPC
+  Path: 
+  Type: IPC Admin
+System hotfix: KB5004567 - Update
+System hotfix: KB5012170 - Security Update
+System hotfix: KB5022505 - Update
+System hotfix: KB5022925 - Update
+System hotfix: KB5023698 - Security Update
+Startup: LAPTOP-O37RLF1G\sree pravallika: Skype for Desktop (C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe)
+  Name: Skype for Desktop
+  Command: C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe
+  Location: HKU\S-1-5-21-572798379-1359309827-201480640-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-O37RLF1G\sree pravallika
+Startup: LAPTOP-O37RLF1G\sree pravallika: MySQL Notifier (C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\MySqlNotifier.exe)
+  Name: MySQL Notifier
+  Command: C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\MySqlNotifier.exe
+  Location: HKU\S-1-5-21-572798379-1359309827-201480640-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-O37RLF1G\sree pravallika
+Startup: LAPTOP-O37RLF1G\sree pravallika: ProtonVPN (C:\Program Files (x86)\Proton Technologies\ProtonVPN\ProtonVPN.exe)
+  Name: ProtonVPN
+  Command: C:\Program Files (x86)\Proton Technologies\ProtonVPN\ProtonVPN.exe
+  Location: HKU\S-1-5-21-572798379-1359309827-201480640-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-O37RLF1G\sree pravallika
+Startup: LAPTOP-O37RLF1G\sree pravallika: MicrosoftEdgeAutoLaunch_87FF2D0DAC722DE37FAFCD5D366802C0 ("C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5)
+  Name: MicrosoftEdgeAutoLaunch_87FF2D0DAC722DE37FAFCD5D366802C0
+  Command: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+  Location: HKU\S-1-5-21-572798379-1359309827-201480640-1001\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: LAPTOP-O37RLF1G\sree pravallika
+Startup: Public: SecurityHealth (%windir%\system32\SecurityHealthSystray.exe)
+  Name: SecurityHealth
+  Command: %windir%\system32\SecurityHealthSystray.exe
+  Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: Public
+
+
+SOFTWARE
+========
+
+Ablebits Ultimate Suite for Microsoft Excel, Personal edition, Version: 21.5.2887.2692, Publisher: Ablebits, Install date: 2021-11-24, Size: 57.5 MB
+AccessData FTK Imager, Version: 4.7.1.2, Publisher: AccessData, Install date: 2023-03-29, Size: 128.9 MB
+Anaconda3 2019.03 (Python 3.7.3 64-bit), Version: 2019.03, Publisher: Anaconda, Inc.
+ASUS GiftBox Service, Version: 3.2.3.0, Publisher: ASUSTeK COMPUTER INC., Install date: 2018-11-20, Size: 3.4 MB
+ASUS Hello, Version: 1.1.4.0, Publisher: ASUSTeK COMPUTER INC., Install date: 2018-11-20, Size: 15.2 MB
+AudioWizard, Version: 1.0.9.7, Publisher: ICEpower a/s, Install date: 2018-11-20, Size: 37.2 MB
+BlueStacks App Player, Version: 4.260.0.1032, Publisher: BlueStack Systems, Inc., Install date: 2021-02-04, Size: 2.0 GB
+Cisco Packet Tracer 7.2.2 64Bit, Publisher: Cisco Systems, Inc., Install date: 2021-06-07, Size: 305.7 MB
+Dev-C++, Version: 5.11, Publisher: Bloodshed Software
+Git, Version: 2.39.2, Publisher: The Git Development Community, Install date: 2023-03-01, Size: 293.3 MB
+Google Chrome, Version: 111.0.5563.147, Publisher: Google LLC, Install date: 2023-03-31
+Intel(R) Management Engine Components, Version: 1826.12.0.1146, Publisher: Intel Corporation, Size: 110.2 MB
+Intel(R) Serial IO, Version: 30.100.1727.1, Publisher: Intel Corporation
+Intel® PROSet/Wireless Software, Version: 21.0.0.0u, Publisher: Intel Corporation, Size: 247.2 MB
+Microsoft 365 - en-us, Version: 16.0.16130.20306, Product key: BTDRB (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft ASP.NET MVC 2, Version: 2.0.60926.0, Publisher: Microsoft Corporation, Install date: 2023-01-26, Size: 850.0 KB
+Microsoft Edge WebView2 Runtime, Version: 111.0.1661.62, Publisher: Microsoft Corporation, Install date: 2023-04-02
+Microsoft Edge, Version: 111.0.1661.62, Publisher: Microsoft Corporation, Install date: 2023-04-02
+Microsoft ODBC Driver 17 for SQL Server, Version: 17.5.1.1, Publisher: Microsoft Corporation, Install date: 2021-11-27, Size: 7.3 MB
+Microsoft Office Project Professional 2007, Version: 12.0.6612.1000, Product key: HCFPT-K86VV-DCKH3-87CCR-FM6HW, Publisher: Microsoft Corporation, Install date: 2023-01-30
+Microsoft OneDrive, Version: 23.054.0313.0001, Publisher: Microsoft Corporation, Size: 272.6 MB
+Microsoft SQL Server 2016 PowerPivot - SharePoint, Version: 13.0.1601.5, Publisher: Microsoft Corporation, Install date: 2021-11-23, Size: 515.7 MB
+Microsoft Update Health Tools, Version: 4.71.0.0, Publisher: Microsoft Corporation, Install date: 2023-01-26, Size: 1.0 MB
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219, Version: 10.0.40219, Publisher: Microsoft Corporation, Install date: 2020-10-10, Size: 51.0 MB
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219, Version: 10.0.40219, Publisher: Microsoft Corporation, Install date: 2020-10-10, Size: 11.1 MB
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40649, Version: 12.0.40649.5, Publisher: Microsoft Corporation, Size: 20.6 MB
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215, Version: 14.0.24215.1, Publisher: Microsoft Corporation, Size: 19.5 MB
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29112, Version: 14.27.29112.0, Publisher: Microsoft Corporation, Size: 22.0 MB
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64), Version: 10.0.50903, Publisher: Microsoft Corporation
+MySQL Connector C++ 8.0, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 126.9 MB
+MySQL Connector J, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 2.7 MB
+MySQL Connector Net 8.0.21, Version: 8.0.21, Publisher: Oracle, Install date: 2020-10-10, Size: 12.5 MB
+MySQL Connector Python v8.0.21, Version: 8.0.21, Publisher: Oracle, Install date: 2020-10-10, Size: 13.4 MB
+MySQL Connector/ODBC 8.0, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 57.1 MB
+MySQL Documents 8.0, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 96.2 MB
+MySQL Examples and Samples 8.0, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 3.7 MB
+MySQL For Excel 1.3.8, Version: 1.3.8, Publisher: Oracle, Install date: 2020-10-10, Size: 6.7 MB
+MySQL Installer - Community, Version: 1.4.34.0, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 443.4 MB
+MySQL Notifier 1.1.8, Version: 1.1.8, Publisher: Oracle, Install date: 2020-10-10, Size: 4.8 MB
+MySQL Router 8.0, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 139.0 MB
+MySQL Server 8.0, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 522.7 MB
+MySQL Shell 8.0.21, Version: 8.0.21, Publisher: Oracle and/or its affiliates, Install date: 2020-10-10, Size: 134.5 MB
+MySQL Workbench 8.0 CE, Version: 8.0.21, Publisher: Oracle Corporation, Install date: 2020-10-10, Size: 125.4 MB
+Oracle Data Provider for .NET Help, Version: 10.2.000, Publisher: Oracle Corporation, Install date: 2020-08-03, Size: 1.0 MB
+Oracle Database 10g Express Edition, Version: 10.2.1015, Publisher: Oracle Corporation, Install date: 2020-08-03, Size: 1.5 GB
+Oracle VM VirtualBox 6.1.16, Version: 6.1.16, Publisher: Oracle Corporation, Install date: 2023-01-22, Size: 382.9 MB
+psqlODBC_x64, Version: 09.06.0504, Publisher: PostgreSQL Global Development Group, Install date: 2021-11-27, Size: 7.7 MB
+PyCharm 2020.2.3, Version: 202.7660.27, Publisher: JetBrains s.r.o.
+PyCharm Community Edition 2020.2.3, Version: 202.7660.27, Publisher: JetBrains s.r.o.
+Python 3.8.5 (32-bit), Version: 3.8.5150.0, Publisher: Python Software Foundation, Size: 94.3 MB
+Python Launcher, Version: 3.8.7140.0, Publisher: Python Software Foundation, Install date: 2020-07-31, Size: 1.8 MB
+R for Windows 4.1.2, Version: 4.1.2, Publisher: R Core Team, Install date: 2022-01-07, Size: 210.7 MB
+RStudio, Version: 2021.09.1+372, Publisher: RStudio
+Search Powered by Yahoo!
+Skype version 8.48, Version: 8.48, Publisher: Skype Technologies S.A., Install date: 2019-07-07, Size: 195.1 MB
+Tableau 2021.4 (20214.21.1217.2252), Version: 21.4.1440, Publisher: Tableau Software, Size: 2.6 GB
+Tableau Prep Builder 2021.3 (21.32.21.1024.2201), Version: 21.3.16669, Publisher: Tableau Software, Size: 2.0 GB
+Tableau Prep Builder 2022.2 (22.22.22.0815.0938), Version: 22.2.21701, Publisher: Tableau Software, LLC, Size: 2.2 GB
+TeamViewer, Version: 15.4.8332, Publisher: TeamViewer
+Update for Windows 10 for x64-based Systems (KB4480730), Version: 2.51.0.0, Publisher: Microsoft Corporation, Install date: 2019-07-06, Size: 340.0 KB
+UsbFix, Version: 7.162, Publisher: El Desaparecido - www.usbfix.net - www.sosvirus.net
+VLC media player, Version: 3.0.16, Publisher: VideoLAN
+VMware Workstation, Version: 15.1.0, Publisher: VMware, Inc., Install date: 2022-01-07, Size: 791.4 MB
+WebAdvisor by McAfee, Version: 4.1.1.150, Publisher: McAfee, LLC, Size: 57.3 MB
+Windows 10 Update Assistant, Version: 1.4.9200.22866, Publisher: Microsoft Corporation, Size: 5.0 MB
+Windows PC Health Check, Version: 3.2.2110.14001, Publisher: Microsoft Corporation, Install date: 2021-10-28, Size: 11.5 MB
+Windows Subsystem for Linux Update, Version: 5.10.102.1, Publisher: Microsoft Corporation, Install date: 2023-01-26, Size: 41.3 MB
+Windows Subsystem for Linux WSLg Preview, Version: 1.0.26, Publisher: Microsoft Corporation, Install date: 2023-01-26, Size: 340.5 MB
+WinRAR 6.02 (64-bit), Version: 6.02.0, Publisher: win.rar GmbH
+Xournal++, Publisher: The Xournal++ Team
+Zoom, Version: 5.10.0 (4306), Publisher: Zoom Video Communications, Inc., Size: 9.8 MB
+
+
+PROCESSES
+=========
+
+AggregatorHost.exe (C:\WINDOWS\System32\AggregatorHost.exe)
+ApplicationFrameHost.exe (C:\WINDOWS\system32\ApplicationFrameHost.exe)
+AsHidSrv64.exe (C:\WINDOWS\System32\DriverStore\FileRepository\atkwmiacpiio.inf_amd64_30ffacb41f78f352\AsHidSrv64.exe)
+AsLdrSrv64.exe (C:\WINDOWS\System32\DriverStore\FileRepository\atkwmiacpiio.inf_amd64_30ffacb41f78f352\AsLdrSrv64.exe)
+AsMonStartupTask64.exe (C:\WINDOWS\System32\DriverStore\FileRepository\atkwmiacpiio.inf_amd64_30ffacb41f78f352\AsMonStartupTask64.exe)
+AsusAppService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\AsusAppService\AsusAppService.exe)
+AsusLinkNear.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSLinkNear\AsusLinkNear.exe)
+AsusLinkRemote.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSLinkRemote\AsusLinkRemote.exe)
+AsusNumPadService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asusnumpadfilter.inf_amd64_936e1b5b4303abdf\AsusNumPadService.exe)
+AsusOptimization.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\AsusOptimization\AsusOptimization.exe)
+AsusPTPService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asusdigifilter.inf_amd64_570a90d182f53fa5\AsusPTPService.exe)
+AsusSoftwareManager.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSSoftwareManager\AsusSoftwareManager.exe)
+AsusSoftwareManagerAgent.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSSoftwareManager\AsusSoftwareManagerAgent.exe)
+AsusSwitch.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSSwitch\AsusSwitch.exe)
+AsusSystemAnalysis.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSSystemAnalysis\AsusSystemAnalysis.exe)
+AsusSystemDiagnosis.exe (C:\WINDOWS\System32\DriverStore\FileRepository\asussci.inf_amd64_ec1954831bc29727\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe)
+ATKOSD2.exe (C:\WINDOWS\System32\DriverStore\FileRepository\atkwmiacpiio.inf_amd64_30ffacb41f78f352\ATKOSD2.exe)
+audiodg.exe (C:\WINDOWS\system32\AUDIODG.EXE)
+bash.exe (C:\Program Files\Git\usr\bin\bash.exe)
+browserhost.exe (C:\Program Files\McAfee\WebAdvisor\browserhost.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+chrome.exe (C:\Program Files (x86)\Google\Chrome\Application\chrome.exe)
+cmd.exe (C:\WINDOWS\system32\cmd.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+conhost.exe (C:\WINDOWS\system32\conhost.exe)
+Cortana.exe (C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe)
+ctfmon.exe (C:\WINDOWS\system32\ctfmon.exe)
+dasHost.exe (C:\WINDOWS\system32\dashost.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dwm.exe (C:\WINDOWS\System32\dwm.exe)
+esif_uf.exe (C:\WINDOWS\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_7ecc5be6ca7b3b0d\esif_uf.exe)
+explorer.exe (C:\WINDOWS\Explorer.EXE)
+FNPLicensingService64.exe (C:\Program Files\Common Files\Macrovision Shared\FlexNet Publisher\FNPLicensingService64.exe)
+fontdrvhost.exe (C:\WINDOWS\System32\fontdrvhost.exe)
+fontdrvhost.exe (C:\WINDOWS\system32\fontdrvhost.exe)
+freepcaudit.exe (C:\Users\sree pravallika\Downloads\freepcaudit.exe)
+GiftBox.Agent.exe (C:\Program Files (x86)\ASUS\ASUS GiftBox Service\GiftBox.Agent.exe)
+GiftBoxService.exe (C:\Program Files (x86)\ASUS\ASUS GiftBox Service\GiftBoxService.exe)
+git-bash.exe (C:\Program Files\Git\git-bash.exe)
+GoogleCrashHandler.exe (C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler.exe)
+GoogleCrashHandler64.exe (C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler64.exe)
+HControl.exe (C:\Program Files\WindowsApps\B9ECED6F.ASUSKeyboardHotkeys_1.0.12.0_x86__qmba6cd70vzyy\ATK Package\HControl.exe)
+HxOutlook.exe (C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21374.0_x64__8wekyb3d8bbwe\HxOutlook.exe)
+HxTsr.exe (C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21374.0_x64__8wekyb3d8bbwe\HxTsr.exe)
+ibtsiva.exe (C:\WINDOWS\System32\ibtsiva.exe)
+ICEsoundService64.exe (C:\WINDOWS\System32\DriverStore\FileRepository\icesoundapo64.inf_amd64_db704b106aae3892\ICEsoundService64.exe)
+igfxCUIService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_b8e01d9e8716d2a7\igfxCUIService.exe)
+Intel_PIE_Service.exe (C:\WINDOWS\System32\DriverStore\FileRepository\piecomponent.inf_amd64_b43f5856b08c04dc\Intel_PIE_Service.exe)
+IntelAudioService.exe (C:\WINDOWS\system32\cAVS\Intel(R) Audio Service\IntelAudioService.exe)
+IntelCpHDCPSvc.exe (C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e9b40d45ab4dc6b8\IntelCpHDCPSvc.exe)
+IntelCpHeciSvc.exe (C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_e9b40d45ab4dc6b8\IntelCpHeciSvc.exe)
+jhi_service.exe (C:\WINDOWS\System32\jhi_service.exe)
+LockApp.exe (C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe)
+lsass.exe (C:\WINDOWS\system32\lsass.exe)
+MicrosoftEdgeUpdate.exe (C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe)
+mintty.exe (C:\Program Files\Git\usr\bin\mintty.exe)
+MoUsoCoreWorker.exe (C:\WINDOWS\uus\AMD64\MoUsoCoreWorker.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+mysqld.exe (C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe)
+mysqld.exe (C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe)
+OfficeClickToRun.exe (C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe)
+OneApp.IGCC.WinService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_54b736e5be5b50b2\OneApp.IGCC.WinService.exe)
+PresentationFontCache.exe (C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe)
+RtkAudUService64.exe (C:\WINDOWS\System32\RtkAudUService64.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+SDXHelperBgt.exe (C:\Program Files\WindowsApps\Microsoft.Office.Desktop_16051.16130.20306.0_x86__8wekyb3d8bbwe\Office16\SDXHelperBgt.exe)
+SearchFilterHost.exe (C:\WINDOWS\system32\SearchFilterHost.exe)
+SearchHost.exe (C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe)
+SearchIndexer.exe (C:\WINDOWS\system32\SearchIndexer.exe)
+SearchProtocolHost.exe (C:\WINDOWS\System32\SearchProtocolHost.exe)
+SearchProtocolHost.exe (C:\WINDOWS\System32\SearchProtocolHost.exe)
+servicehost.exe (C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe)
+ShellExperienceHost.exe (C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe)
+sihost.exe (C:\WINDOWS\system32\sihost.exe)
+smartscreen.exe (C:\Windows\System32\smartscreen.exe)
+spoolsv.exe (C:\WINDOWS\System32\spoolsv.exe)
+StartMenuExperienceHost.exe (C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+SystemSettings.exe (C:\Windows\ImmersiveControlPanel\SystemSettings.exe)
+SystemSettingsBroker.exe (C:\Windows\System32\SystemSettingsBroker.exe)
+taskhostw.exe (C:\WINDOWS\system32\taskhostw.exe)
+TeamViewer_Service.exe (C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe)
+TiWorker.exe (C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22000.1630_none_826cf4e2ff0b0ad1\TiWorker.exe)
+TrustedInstaller.exe (C:\WINDOWS\servicing\TrustedInstaller.exe)
+unsecapp.exe (C:\WINDOWS\system32\wbem\unsecapp.exe)
+vmnat.exe (C:\WINDOWS\SysWOW64\vmnat.exe)
+vmnetdhcp.exe (C:\WINDOWS\SysWOW64\vmnetdhcp.exe)
+vmware-authd.exe (C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe)
+vmware-hostd.exe (C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe)
+vmware-usbarbitrator64.exe (C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe)
+WhatsApp.exe (C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2310.3.0_x64__cv1g1gvanyjgm\WhatsApp.exe)
+winlogon.exe (C:\WINDOWS\System32\WinLogon.exe)
+wlanext.exe (C:\WINDOWS\system32\WLANExt.exe)
+WmiApSrv.exe (C:\WINDOWS\system32\wbem\WmiApSrv.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WUDFHost.exe (C:\Windows\System32\WUDFHost.exe)
+WUDFHost.exe (C:\Windows\System32\WUDFHost.exe)
